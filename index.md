@@ -11,3 +11,7 @@
 print("Hello, World!)
 ```
 
+- [ ] Turn on Github Pages
+- [ ] Outline my porfolio
+- [ ] Introduce myself to the world 
+
